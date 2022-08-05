@@ -1,0 +1,12 @@
+html body {
+    font-size: 1.2rem;
+    padding: 0px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+}
