@@ -38,4 +38,12 @@ html body {
 .side-banner img {
     width: 80px;
     padding: 10px;
-}  
+}
+
+.side-banner p {
+    font-size: .8rem;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
