@@ -10,3 +10,17 @@ html body {
     justify-content: center;
     width: 100vw;
 }
+
+.side-banner {
+    flex-grow: 1;
+    position: relative;
+    width: 50vw;
+    min-width: 300px;
+    height: 100vh;
+    background: url(images/drew-collins-unsplash.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
