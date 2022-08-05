@@ -24,3 +24,18 @@ html body {
     align-items: center;
     color: white;
 }
+
+.side-banner div {
+    width: 100%;
+    background-color: rgba(9, 9, 9, 0.527);
+    line-height: 2rem;
+    padding: 0px 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.side-banner img {
+    width: 80px;
+    padding: 10px;
+}  
