@@ -47,3 +47,20 @@ html body {
     bottom: 0px;
     right: 10px;
 }
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    width: 60vw;
+    flex-grow: 2;
+    background-color: rgb(219, 217, 217);
+}
+
+.input-section {
+    width: 60vw;
+    background-color: white;
+    padding: 20px 0px 30px 20px;
+    box-shadow: 0px 5px 5px black;
+}
