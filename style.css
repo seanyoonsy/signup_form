@@ -97,3 +97,20 @@ input {
     margin-top: 3px;
     margin-right: 40px;
 }
+
+a {
+    text-decoration: none;
+    color: #596D48;
+}
+
+button[type='submit'] {
+    padding: 15px 25px;
+    font-size: 1.3rem;
+    font-weight: bold;
+    background-color: #596D48;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    letter-spacing: 1px;
+    box-shadow: 2px 2px 8px black;
+}
