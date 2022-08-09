@@ -120,3 +120,7 @@ button[type='submit'] {
     letter-spacing: 1px;
     box-shadow: 2px 2px 8px black;
 }
+
+button[type='submit']:hover {
+    background-color: #34402a;
+}
