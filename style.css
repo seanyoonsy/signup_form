@@ -67,6 +67,8 @@ html body {
 
 .form-header {
     padding: 0px 0px 20px 20px;
+    font-size: 1.4rem;
+    font-weight: bold;
 }
 
 .submit {
@@ -96,6 +98,10 @@ input {
     font-size: 1rem;
     margin-top: 3px;
     margin-right: 40px;
+}
+
+.input-section > p {
+    font-size: 1.4rem;
 }
 
 a {
