@@ -59,10 +59,18 @@ html body {
 }
 
 .input-section {
+    display: flex;
+    flex-flow: row wrap;
     width: 60vw;
     background-color: white;
-    padding: 20px 0px 30px 20px;
+    gap: 20px;
+    padding: 0px 0px 30px 20px;
     box-shadow: 0px 5px 5px black;
+}
+
+.input-section p {
+    font-size: 1.4rem;
+    width: 100%;
 }
 
 .form-header {
@@ -73,13 +81,6 @@ html body {
 
 .submit {
     padding: 30px 0px 0px 20px;
-}
-
-form {
-    display: flex;
-    flex-flow: row wrap;
-    width: 60vw;
-    gap: 20px;
 }
   
 label {
@@ -98,10 +99,6 @@ input {
     font-size: 1rem;
     margin-top: 3px;
     margin-right: 40px;
-}
-
-.input-section > p {
-    font-size: 1.4rem;
 }
 
 a {
