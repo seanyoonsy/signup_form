@@ -63,7 +63,7 @@ html body {
     flex-flow: row wrap;
     width: 60vw;
     background-color: white;
-    gap: 20px;
+    gap: 35px;
     padding: 0px 0px 30px 20px;
     box-shadow: 0px 5px 5px black;
 }
